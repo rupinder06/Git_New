@@ -1,6 +1,6 @@
 
 
-int age = 5;
+int age = 12;
 
 if(age>=20)
 
