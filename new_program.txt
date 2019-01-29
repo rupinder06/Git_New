@@ -1,6 +1,10 @@
 
 
+<<<<<<< HEAD
 int age = 10;
+=======
+int age = 12;
+>>>>>>> e5b5a382ced6f51b454da0eb52b660c6f1f66135
 
 if(age>=20)
 
