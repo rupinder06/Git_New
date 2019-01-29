@@ -6,6 +6,6 @@ if(age>=20)
 
 {
 
-  System.out.println("Happy");
+  System.out.println("angry");
 
 }
