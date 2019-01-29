@@ -6,6 +6,6 @@ if(age>=20)
 
 {
 
-  System.out.println("Git");
+  System.out.println("Happy");
 
 }
