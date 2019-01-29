@@ -2,7 +2,7 @@
 
 int age = 5;
 
-if(age>3)
+if(age>=20)
 
 {
 
